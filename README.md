@@ -1,3 +1,3 @@
 # hello-world
-learning!
+Learning!
 Budding developer with a long way to go!
